@@ -1,0 +1,2 @@
+SELECT title FROM holiday episode
+WHERE aired_date = "2004-12-31";

@@ -1,0 +1,3 @@
+SELECT COUNT(*)AS unique_title_count
+FROM episodes
+

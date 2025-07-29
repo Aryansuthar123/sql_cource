@@ -1,0 +1,4 @@
+SELECT COUNT(*) AS total_episodes
+FROM episodes
+WHERE air_date BETWEEN '2081-01-01' AND '2023-21-31';
+
