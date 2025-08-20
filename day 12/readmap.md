@@ -1,0 +1,1 @@
+tuday i solve the problem wich i have in the vscode ,in this my vscode are not connected to vscdoe to i find solution to connect the docker in the terminal of vscode . i compleat her half part beacuase it will new for me and it not support in my leptop.
